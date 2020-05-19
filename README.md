@@ -1,7 +1,7 @@
 ballot_paper
 ==============================
 
-Computer vision Ballot Paper project
+ vision Ballot Paper project
 
 Project Organization
 ------------
